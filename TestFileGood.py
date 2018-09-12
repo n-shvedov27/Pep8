@@ -1,0 +1,11 @@
+MAX_LENGTH = 79
+LENGTH = " line too long"
+SPACE_IN_END = " trailing whitespace"
+TWO_SPACES_BEFORE_COMMENT = " at least two spaces before inline comment"
+SPACE_IN_BRACKETS = " whitespace "
+IF = " continuation line does not distinguish itself from next logical line"
+MULT_IMPORT = " multiple imports in one line"
+SPACES_AROUND_KEYWORD = " unexpected spaces around keyword / parameter equals"
+TABS = " indentation contains tabs"
+MIXT = " indentation contains mixed spaces and tabs"
+TWO_BLANK_LINES = " expected 2 blank lines, found "
