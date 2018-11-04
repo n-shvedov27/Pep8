@@ -1,0 +1,7 @@
+def d
+
+
+class a:
+    pass
+
+a = 2
