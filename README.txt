@@ -5,4 +5,4 @@
 Пример запуска: python Pep8.py ['filename']
 
 or URL 
-http://www.example.com/gizmos
+https://stage-web-bank20.bank24.int/a/analytics
