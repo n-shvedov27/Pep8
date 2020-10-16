@@ -5,4 +5,4 @@
 Пример запуска: python Pep8.py ['filename']
 
 or URL 
-https://stage-web-bank20.bank24.int/a/analytics
+https://stage-web-bank20.bank24.int/a/analytics?customer_code=300005007
